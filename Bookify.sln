@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookify.Web", "Bookify.Web\Bookify.Web.csproj", "{423EE6C1-862B-4601-BE03-BFF0B8BB21DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423EE6C1-862B-4601-BE03-BFF0B8BB21DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423EE6C1-862B-4601-BE03-BFF0B8BB21DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423EE6C1-862B-4601-BE03-BFF0B8BB21DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423EE6C1-862B-4601-BE03-BFF0B8BB21DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC9F3E6-1C2D-4976-BC39-5882D6F55C86}
+	EndGlobalSection
+EndGlobal
